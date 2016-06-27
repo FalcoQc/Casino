@@ -47,3 +47,4 @@ while continuer_la_partie == True:
 		continuer_la_partie = False
 
 print("Je fais des éssais, plein d'essai :OOOOO")
+print("Je fais un autre print")
