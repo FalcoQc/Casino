@@ -45,3 +45,5 @@ while continuer_la_partie == True:
 	else:
 		print("D'accord bonne fin de journée.")
 		continuer_la_partie = False
+
+print("Je fais des éssais, plein d'essai :OOOOO")
