@@ -45,7 +45,10 @@ while continuer_la_partie == True:
 	else:
 		print("D'accord bonne fin de journée.")
 		continuer_la_partie = False
+<<<<<<< HEAD
 
 print("Je fais des éssais, plein d'essai :OOOOO")
 print("Je fais un autre print")
 print("Bon, dernier essai la... peut être")
+=======
+>>>>>>> parent of ed146c6... plus un print
