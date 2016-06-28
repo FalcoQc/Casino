@@ -48,3 +48,4 @@ while continuer_la_partie == True:
 
 print("Je fais des éssais, plein d'essai :OOOOO")
 print("Je fais un autre print")
+print("Bon, dernier essai la... peut être")
